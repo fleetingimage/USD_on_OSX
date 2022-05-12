@@ -29,7 +29,7 @@ advance their code and this work will no longer be necessary.
   * Create an "activate" script.
 
 ## Usage
-    % source /opt/USD/activate
-    % curl -O https://graphics.pixar.com/usd/files/Kitchen_set.zip
-    % unzip Kitchen_set.zip
-    % usdview Kitchen_set/Kitchen_set.usd
+    source /opt/USD/activate
+    curl -O https://graphics.pixar.com/usd/files/Kitchen_set.zip
+    unzip Kitchen_set.zip
+    usdview Kitchen_set/Kitchen_set.usd
